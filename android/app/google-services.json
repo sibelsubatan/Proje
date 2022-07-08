@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "664553196731",
+    "firebase_url": "https://bitlo-a2eda-default-rtdb.firebaseio.com",
+    "project_id": "bitlo-a2eda",
+    "storage_bucket": "bitlo-a2eda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664553196731:android:3a53fc65c1dfdfc67dad9e",
+        "android_client_info": {
+          "package_name": "com.bitlo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664553196731-qd57edm47s8kpbofg9jaesb6opc4j18i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb2iJgfcXpB7To-ibcRRzFW3KMKyHavr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664553196731-qd57edm47s8kpbofg9jaesb6opc4j18i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "664553196731-gj9bh387sjfdd2lpnog77ubr4303jv9h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bitlo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
